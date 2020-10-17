@@ -9,6 +9,7 @@ Export AOE3 GR2 model and animation to FBX
 ## Usage:
 * Extract gr2 files from AOE3 Art Assets
 * `gr2fbxexporter.exe <modelfile> <outputfbxfile> [animfile1] [animfile2]`
+* `gr2fbxexporter.exe <animfile1> <outputfbxfile>` works too.
 
 ### Example:
 ```
